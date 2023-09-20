@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceRoot}",
+                "${workspaceRoot}/Core/Inc",
+                "${workspaceRoot}/Drivers/STM32L1xx_HAL_Driver/Inc",
+                "${workspaceRoot}/Drivers/CMSIS/Include",
+                "${workspaceRoot}/Drivers/CMSIS/Device/ST/STM32L1xx/Include",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/c++/12.3.1",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/12.3.1/include",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/lib/gcc/arm-none-eabi/12.3.1/include-fixed",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/machine",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/newlib-nano",
+                "${workspaceRoot}/Tools/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi/arm-none-eabi/include/sys"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USE_HAL_DRIVER",
+                "STM32L152xE",
+                "__CC_ARM"
+            ],
+            "compilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
