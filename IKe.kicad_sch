@@ -1834,7 +1834,7 @@
     (uuid fc854937-de1d-4eef-aace-3390621e265a)
   )
 
-  (text "Comparator\n" (at 133.35 50.8 0)
+  (text "Comparator\n(1-BIT ADC)\n" (at 130.81 52.07 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 06f4be9a-32f5-4c2c-8226-80e964ecf21d)
   )
@@ -1854,7 +1854,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c8ddcce7-93ff-458c-8d6b-e6a19dece04d)
   )
-  (text "MCU/FPGA\n" (at 173.99 60.96 0)
+  (text "MCU/FPGA/Output\n" (at 173.99 60.96 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c91e561c-dd2c-464c-8db2-04719e7ff6dd)
   )
